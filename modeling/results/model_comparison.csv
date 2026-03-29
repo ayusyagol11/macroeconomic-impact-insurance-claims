@@ -1,0 +1,10 @@
+target,model,n,MAE,RMSE,R2
+Householders Loss Ratio,OLS,7,0.0028,0.0033,1.0
+Householders Loss Ratio,Ridge,7,0.1947,0.2408,0.463
+Householders Loss Ratio,Lasso,7,0.1079,0.1247,0.856
+Domestic Motor Loss Ratio,OLS,7,0.0014,0.0016,0.999
+Domestic Motor Loss Ratio,Ridge,7,0.0212,0.0244,0.686
+Domestic Motor Loss Ratio,Lasso,7,0.0229,0.0278,0.59
+Householders Gross Claims,OLS,7,53391506.6533,63004076.449,0.998
+Householders Gross Claims,Ridge,7,842541828.7853,1026398360.013,0.487
+Householders Gross Claims,Lasso,7,53391506.678,63004076.449,0.998

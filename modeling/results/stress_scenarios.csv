@@ -1,0 +1,5 @@
+Scenario,CPI Δ (% pa),WPI Δ (% pa),PPI Δ (% pa),Rate Δ (pp),ΔLoss Ratio,Projected LR,Reserve Buffer Δ (pp)
+Baseline,0.0,0.0,0.0,0.0,0.0,0.72,0.0
+"Scenario A (CPI +4% pa, Rates +1%)",4.0,2.5,3.0,1.0,0.039,0.759,3.9
+"Scenario B (Stagflation: CPI +5%, Weak GDP)",5.0,1.5,4.5,0.5,0.042,0.762,4.2
+"Scenario C (Rate Cut: -1%, Low Inflation)",-1.0,0.5,-0.5,-1.0,-0.002,0.718,-0.2

@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+
+# Raw data files (large Excel, not for version control)
+data/raw/
+
+# Claude Code internal
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
